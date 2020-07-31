@@ -1,0 +1,2 @@
+type cmd in address bar from project folder
+../Where-s-Waldo-master> python waldo_template_match.py
